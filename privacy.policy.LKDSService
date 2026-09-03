@@ -1,1 +1,131 @@
+PRIVACY POLICY
+Mobile Application for Ticket Management and User Collaboration
 
+Effective Date: September 3, 2026
+Developer / Data Controller: LIFT-COMPLEKS DS, OOO
+Version: 1.0
+Applicability: Google Play Store & Apple App Store Guidelines Compliant
+
+This Privacy Policy ("Policy") describes how LIFT-COMPLEKS DS, OOO ("Company", "we", "us", or "our") collects, uses, stores, shares, and protects your personal data when you use our mobile application (the "Application"). By accessing or using the Application, you agree to the collection and use of information in accordance with this Policy.
+
+
+1. DATA CONTROLLER AND CONTACT INFORMATION
+
+The legal entity responsible for processing your personal data (the Data Controller) is:
+
+Company Name: LIFT-COMPLEKS DS, OOO
+Registered Address: Vostochnaya St, 25, Krasnoobsk, Novosibirsk Oblast, 630501, Russia
+Official Website: https://lkds.net/
+Support & Privacy Email: aaa@lkds.ru
+
+
+2. INFORMATION WE COLLECT AND PURPOSES OF PROCESSING
+
+In strict compliance with Google Play Developer Policies and Apple App Store Review Guidelines, we collect only the minimum personal data required to deliver core application functionality.
+
++-----------------------+----------------------------------+------------------------------------+
+| Data Category         | Data Items Collected             | Purpose & Legal Basis              |
++-----------------------+----------------------------------+------------------------------------+
+| Account & Credentials | Username/Login, hashed password, | Server authentication, system      |
+|                       | Organization Name, role(s).      | authorization, and access control. |
+|                       |                                  | (Contractual Necessity)            |
++-----------------------+----------------------------------+------------------------------------+
+| Contact Information   | Mobile phone number (manually    | Enabling direct cellular voice     |
+|                       | pre-assigned by administrator).  | communication between users for    |
+|                       |                                  | task coordination.                 |
+|                       |                                  | (Legitimate Interest)              |
++-----------------------+----------------------------------+------------------------------------+
+| Ticket & Content Data | Ticket text, status logs, chat   | Creation, processing, workflow     |
+|                       | messages, photos, uploaded files.| tracking, and ticket execution.    |
+|                       |                                  | (Contractual Necessity)            |
++-----------------------+----------------------------------+------------------------------------+
+| Device Identifiers &  | Push Notification Tokens (FCM /  | Delivering real-time operational   |
+| Push Tokens           | APNs), device model, OS version. | notifications via FCM and APNs.    |
+|                       |                                  | (Legitimate Interest)              |
++-----------------------+----------------------------------+------------------------------------+
+
+
+3. AUTHENTICATION AND THIRD-PARTY IDENTITY PROVIDERS
+
+3.1. Direct Proprietary Authentication: User authentication is performed directly against our proprietary servers using user credentials (Login, Password) and Organization Name.
+
+3.2. No Third-Party Identity Services: The Application does not integrate or utilize third-party single sign-on (SSO) or social login providers, such as Google Sign-In or Apple Sign-In. User credentials are not shared with or processed by any third-party identity service.
+
+
+4. DEVICE PERMISSIONS REQUESTED
+
+To provide specific functional capabilities, the Application requests runtime permissions from your device operating system:
+
+* Camera (NSCameraUsageDescription / CAMERA):
+  Required to capture real-time photo evidence and attach image files directly to tickets and message threads.
+
+* Photo Library / Storage (NSPhotoLibraryUsageDescription / READ_MEDIA_IMAGES):
+  Required to select and attach existing photos or document files from device storage to tickets.
+
+* Phone / Cellular Calling (CALL_PHONE / System Dialer Integration):
+  Required to initiate direct cellular voice calls to other users using phone numbers provisioned in the system.
+
+* Push Notifications (POST_NOTIFICATIONS / APNs):
+  Required to deliver immediate alerts regarding ticket assignments and status transitions.
+
+Notice on Permissions:
+Permissions are requested at the point of use. You may grant or revoke permissions at any time via your device Operating System Settings. Disabling permissions may affect associated Application features.
+
+
+5. PUSH NOTIFICATION INFRASTRUCTURE
+
+Real-time notifications are delivered using industry-standard infrastructure services:
+- Firebase Cloud Messaging (FCM) for Android devices.
+- Apple Push Notification service (APNs) for iOS devices.
+
+Push alerts inform assigned users when a ticket is delegated to them and notify ticket creators when a ticket status changes (e.g., "In Progress", "Completed", "Rejected").
+
+
+6. CELLULAR PHONE CALLS
+
+6.1. Mobile phone numbers associated with user accounts are provisioned manually by system administrators.
+
+6.2. Phone calls initiated within the Application are routed directly through your mobile device's native cellular carrier network. The Application does not record, intercept, or process audio call contents.
+
+6.3. Calls are subject to standard carrier network charges according to your mobile tariff plan.
+
+
+7. DATA RETENTION, ACCOUNT DELETION, AND DATA ERASURE
+
+7.1. Retention: Personal data is retained for the duration necessary to fulfill the operational purposes set forth in this Policy, or as required by statutory regulations.
+
+7.2. Account & Data Deletion Request (Mandatory Requirement): Users have the right to request the complete deletion of their account and associated personal data. To request account deletion, send an email to aaa@lkds.ru with the subject line "Account Deletion Request". Upon verification, all associated personal data will be permanently deleted or anonymized within 30 days.
+
+
+8. DATA SECURITY AND THIRD-PARTY SHARING
+
+8.1. Security Measures: Data transmission between the Application and our server infrastructure is encrypted using Transport Layer Security (TLS/HTTPS). User passwords are stored securely using strong cryptographic hash functions.
+
+8.2. No Commercial Sharing: We do not sell, license, rent, or trade personal user data to third parties for commercial or advertising purposes.
+
+8.3. Infrastructure Providers: Service infrastructure data may be processed by cloud providers (such as FCM and APNs for notification routing) strictly acting as Data Processors bound by data processing agreements.
+
+
+9. USER RIGHTS
+
+Subject to applicable regulations, you possess the right to access, rectify, or request deletion of your personal data held within our systems by contacting aaa@lkds.ru.
+
+
+10. CHILDREN'S PRIVACY
+
+The Application is intended exclusively for professional/enterprise use and is not directed at individuals under 13 years of age (or 16 in certain jurisdictions). We do not knowingly collect data from children.
+
+
+11. POLICY UPDATES
+
+We reserve the right to modify this Policy at any time. Updated versions will be published with an updated "Effective Date". Continued use of the Application signifies acceptance of the revised Policy.
+
+
+--------------------------------------------------
+DATA CONTROLLER CONTACT DETAILS:
+
+LIFT-COMPLEKS DS, OOO
+Vostochnaya St, 25, Krasnoobsk, Novosibirsk Oblast, 630501, Russia
+Email: aaa@lkds.ru
+Official Web Portal: https://lkds.net/
+--------------------------------------------------
