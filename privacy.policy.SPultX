@@ -1,1 +1,107 @@
+PRIVACY POLICY FOR SPultX MOBILE APPLICATION
 
+Last updated: September 17, 2026
+
+LIFT-COMPLEX DS, OOO ("Company", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy describes how LIFT-COMPLEX DS, OOO collects, uses, discloses, and safeguards your information when you use our mobile application SPultX (the "Application") on iOS devices.
+
+Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS OR USE THE APPLICATION.
+
+================================================================================
+1. ABOUT THE APPLICATION
+================================================================================
+
+SPultX is a specialized mobile application for elevator monitoring systems, designed for iOS devices. It allows authorized users and technicians to receive and process real-time data from elevators (including current operational status, technical descriptions, error logs, faults, and emergency alarm signals), switch elevator operation modes, and establish two-way voice communication with elevator units.
+
+Website: https://lkds.net
+Contact Email: aaa@lkds.ru
+Operating Organization: LIFT-COMPLEX DS, OOO
+
+================================================================================
+2. INFORMATION WE COLLECT AND HOW WE USE IT
+================================================================================
+
+To provide core functions, diagnostics, and voice communication capabilities, the Application requires access to specific device features and permissions. We collect and process the following types of data:
+
+2.1. Microphone Access & Audio Data
+- Purpose: The Application uses your device's microphone to receive incoming voice calls and enable two-way voice communication with elevator machine rooms, elevator cabins, or dispatcher units.
+- Processing: Audio signals are processed solely to establish, maintain, and stream real-time voice communications and play recorded voice negotiations. Audio recorded during calls is processed locally or transmitted through your designated elevator monitoring system server for communication purposes.
+
+2.2. Camera Access & QR Code Scanning
+- Purpose: The Application requires camera permission to scan QR codes containing network configuration, device pairing, or connection setup data.
+- Processing: Camera data is analyzed strictly in real time on your device to parse connection credentials/data. Image data from the camera is neither stored permanently nor transmitted to third-party marketing services.
+
+2.3. Location Data (Geolocation)
+- Purpose: The Application accesses precise or approximate geolocation data to display your current location on an interactive OpenStreetMap relative to other monitored elevator objects and facilities.
+- Processing: Location data is used strictly inside the Application to render map overlays and visually assist service personnel in navigating to equipment sites.
+
+2.4. Push Notifications
+- Purpose: The Application delivers push notifications to inform you about critical system events, emergency alarm signals, fault alerts, elevator breakdown reports, and incoming dispatcher calls.
+- Control: You can enable, disable, or adjust push notification permissions at any time through your iOS device settings.
+
+2.5. Operational & Diagnostic Data
+- Monitored Data: The Application processes elevator telemetry data including total installed units, active faults, call counters, last update timestamps, virtual service tool parameters (LKDS proprietary diagnostic tools), fault logs, battery health status, and operational statistics (e.g., door drive cycles, main node counters).
+- Storage & Retrieval: Diagnostic and log data are retrieved from your connected LKDS elevator monitoring system server to display inside the Application.
+
+================================================================================
+3. DEMO MODE
+================================================================================
+
+The Application provides a Demonstration Mode ("Demo Mode") allowing users to explore the interface, sample event logs, sample fault statistics, and functional capabilities without connecting to an active production elevator network. In Demo Mode, simulated data is displayed and no actual elevator control or live voice connection is performed.
+
+================================================================================
+4. DATA SHARING AND THIRD-PARTY SERVICES
+================================================================================
+
+We do not sell, rent, trade, or share your personal data or device permissions with third parties for commercial or marketing purposes.
+
+Third-Party Map Provider:
+- The Application incorporates OpenStreetMap (OSM) to display interactive maps and location markers. Use of mapping functions may involve standard network requests to retrieve map tiles from OpenStreetMap servers. OpenStreetMap processes data in accordance with their privacy policy: https://wiki.osmfoundation.org/wiki/Privacy_Policy.
+
+System Infrastructure:
+- Data collected or transmitted by the Application (such as elevator logs, voice streams, and system alerts) is routed through the specific elevator monitoring infrastructure or server infrastructure operated by your system administrator or organization.
+
+================================================================================
+5. DATA SECURITY
+================================================================================
+
+We employ administrative, technical, and physical security measures to safeguard your information and communications against unauthorized access, alteration, disclosure, or destruction. However, please be aware that no electronic transmission over the internet or wireless network can be guaranteed to be 100% secure.
+
+================================================================================
+6. DATA RETENTION
+================================================================================
+
+The Application retains technical settings and cached log records locally on your device only for as long as necessary to fulfill operational tasks or until you clear application data or uninstall the Application. System logs on server infrastructure are maintained in accordance with your organization's elevator monitoring retention policies.
+
+================================================================================
+7. YOUR CHOICES AND PERMISSIONS
+================================================================================
+
+You retain full control over the permissions granted to the Application on your iOS device:
+- Microphone: Manage via Settings -> SPultX -> Microphone.
+- Camera: Manage via Settings -> SPultX -> Camera.
+- Location: Manage via Settings -> SPultX -> Location.
+- Notifications: Manage via Settings -> SPultX -> Notifications.
+
+Disabling certain permissions (e.g., Microphone or Camera) may limit specific features such as live voice calls or QR code scanning.
+
+================================================================================
+8. CHILDREN'S PRIVACY
+================================================================================
+
+The Application is intended for professional use by technical personnel and authorized operators of elevator monitoring systems. It is not directed to children under the age of 13 (or 16 in certain jurisdictions), and we do not knowingly collect personal information from children.
+
+================================================================================
+9. CHANGES TO THIS PRIVACY POLICY
+================================================================================
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by updating the "Last updated" date at the top of this Privacy Policy and, where appropriate, displaying a notice within the Application.
+
+================================================================================
+10. CONTACT US
+================================================================================
+
+If you have any questions, comments, or concerns regarding this Privacy Policy or our data practices, please contact us at:
+
+LIFT-COMPLEX DS, OOO
+Website: https://lkds.net
+Email: aaa@lkds.ru
